@@ -1,0 +1,1 @@
+This project is a fully functional E-commerce Fashion Store Website designed for selling fashion products online. It features user-friendly navigation, product filtering, a shopping cart, and secure checkout. The platform is built with a responsive design to ensure seamless browsing on both desktop and mobile devices.
